@@ -1,1 +1,1 @@
-# meetup-nextjs
+# nextjs-meetup
