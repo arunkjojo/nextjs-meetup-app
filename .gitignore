@@ -1,5 +1,2 @@
-# dependencies
-/node_modules
-
-#production
-/.next
+node_modules/
+.next/
