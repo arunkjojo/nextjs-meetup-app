@@ -1,6 +1,6 @@
 {
-  "name": "nextjs-course",
-  "version": "0.1.0",
+  "name": "nextjs-meetup",
+  "version": "0.1.1",
   "private": true,
   "scripts": {
     "dev": "export SET NODE_OPTIONS=--openssl-legacy-provider && next dev",
